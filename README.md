@@ -1,4 +1,4 @@
-# Airflights 2
+# Airflights Price Prediction
 
 Simple machine learning project for analyzing and modeling air flight data.
 
@@ -64,15 +64,3 @@ This repository contains data, notebooks, models, and scripts for preprocessing,
 ## 🧪 Notebooks
 
 Open and run cells in `Notebooks/Airflight Analysis ML.ipynb` for exploratory analysis and reproducible experiments.
-
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests with improvements, bug fixes, or documentation updates.
-
-## 📝 License
-
-No license specified. Add a `LICENSE` file to declare one.
-
----
-
-If you want, I can expand sections (installation, CLI options, examples) or add badges and a license file.
